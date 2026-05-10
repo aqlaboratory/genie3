@@ -63,7 +63,7 @@ equivariant architectures.
 Download the source code from GitHub by cloning this repo:
 
 ```
-git clone https://github.com/yeqinglin/genie3.git
+git clone https://github.com/aqlaboratory/genie3.git
 ```
 
 ### Create conda environments
